@@ -1,0 +1,5 @@
+﻿configure_file ("arial.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("RoulletDemoFont.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Hero.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("DummyBackground.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level1-background.png" ${CMAKE_BINARY_DIR} COPYONLY)
