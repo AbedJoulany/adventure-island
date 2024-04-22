@@ -1,7 +1,6 @@
 # Adventure Island Game
 
-![Gameplay Video](https://youtu.be/8tj5pTzx1Xg)
-
+[![Gameplay Video](https://img.youtube.com/vi/8tj5pTzx1Xg/0.jpg)](https://youtu.be/8tj5pTzx1Xg)
 ## Description
 
 Adventure Island is a classic 2D platformer game developed using C++ and SFML. Embark on an exciting adventure, navigate through challenging levels, and defeat enemies to save the island!
