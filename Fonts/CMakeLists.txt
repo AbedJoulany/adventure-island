@@ -1,0 +1,1 @@
+configure_file ( "AdventureIsland.ttf"   ${CMAKE_BINARY_DIR} COPYONLY)
